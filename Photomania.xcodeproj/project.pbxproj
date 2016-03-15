@@ -18,6 +18,7 @@
 		22F2B01819A5C39900939296 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 22F2B01719A5C39900939296 /* Images.xcassets */; };
 		22F2B02419A5C39A00939296 /* PhotomaniaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22F2B02319A5C39A00939296 /* PhotomaniaTests.swift */; };
 		22F2B03119A5C4B100939296 /* PhotoBrowserCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22F2B03019A5C4B100939296 /* PhotoBrowserCollectionViewController.swift */; };
+		4D84F10A1C98763200E31A28 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D84F1091C98763200E31A28 /* ViewController.swift */; };
 		87733D0EEC0B78ACCC5DDD85 /* Pods_Photomania.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 197BABD6430A58FB84044F82 /* Pods_Photomania.framework */; };
 /* End PBXBuildFile section */
 
@@ -62,6 +63,7 @@
 		22F2B02319A5C39A00939296 /* PhotomaniaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotomaniaTests.swift; sourceTree = "<group>"; };
 		22F2B03019A5C4B100939296 /* PhotoBrowserCollectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoBrowserCollectionViewController.swift; sourceTree = "<group>"; };
 		37A97656A7927F18A15466BE /* Pods-Photomania.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Photomania.release.xcconfig"; path = "Pods/Target Support Files/Pods-Photomania/Pods-Photomania.release.xcconfig"; sourceTree = "<group>"; };
+		4D84F1091C98763200E31A28 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		FF74A104795CE1D655390008 /* Pods-Photomania.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Photomania.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Photomania/Pods-Photomania.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -118,6 +120,7 @@
 				22F2B01419A5C39900939296 /* Main.storyboard */,
 				22F2B01719A5C39900939296 /* Images.xcassets */,
 				22F2B00E19A5C39900939296 /* Supporting Files */,
+				4D84F1091C98763200E31A28 /* ViewController.swift */,
 			);
 			path = Photomania;
 			sourceTree = "<group>";
@@ -319,6 +322,7 @@
 				22C66D8719B4E66100B72DCF /* ProgressIndicatorView.swift in Sources */,
 				22F2B03119A5C4B100939296 /* PhotoBrowserCollectionViewController.swift in Sources */,
 				22056D1219AB16C100F7A88B /* PhotoDetailsViewController.swift in Sources */,
+				4D84F10A1C98763200E31A28 /* ViewController.swift in Sources */,
 				2246208219D49AED00B52F40 /* Five100px.swift in Sources */,
 				22056D1019AA62C900F7A88B /* PhotoViewerViewController.swift in Sources */,
 				22A9A53319AB38B7004287D2 /* PhotoCommentsViewController.swift in Sources */,
